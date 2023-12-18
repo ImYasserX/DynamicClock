@@ -1,6 +1,7 @@
 # Dynamic Clock
 
 This is a simple HTML and JavaScript code for creating a dynamic clock with the ability to toggle between light and dark modes.
+
 [Dynamic Clock](https://imyasserx.github.io/DynamicClock/)
 
 ## Files
